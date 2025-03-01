@@ -121,7 +121,7 @@
             <mxPoint x="440" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-iatn8pWx6z-iTGCJD6W-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-iatn8pWx6z-iTGCJD6W-5" value="以其他仪器结合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="356" y="840" width="166" height="60" as="geometry" />
         </mxCell>
       </root>
